@@ -1,0 +1,5 @@
+Temperature Converter using HTML, CSS and JavaScript.
+
+This Section/ file contains codes of the Temperature Converter 
+
+This converter takes only number input(To convert) value for conversion in the Unit of Celsius, Fahrenheit and Kelvin and gives the output (Converted ) value in the form of Celsius, Fahrenheit and Kelvin as well.
